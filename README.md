@@ -23,11 +23,15 @@ The following query string parameters are stripped:
   - `utm_campaign`
   - `utm_content`
   - `utm_cid`
+  - `utm_internal`
+  - `utm_klaviyo_id`
   - `utm_reader`
   - `utm_referrer`
   - `utm_name`
   - `utm_social`
   - `utm_social-type`
+- [ActiveCampaign](https://www.activecampaign.com/)
+  - `vgo_ee`
 - [HubSpot](https://www.hubspot.com/)
   - `_hsenc`
   - `_hsmi`
